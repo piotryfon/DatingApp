@@ -291,6 +291,11 @@ FakesAssemblies/
 .ntvs_analysis.dat
 node_modules/
 
+#Node
+/node_modules
+npm-debug.log
+yarn-error.log
+
 # Visual Studio 6 build log
 *.plg
 
